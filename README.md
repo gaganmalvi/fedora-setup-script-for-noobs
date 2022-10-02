@@ -1,4 +1,4 @@
-# Fedora Setup for Kids
+# Simple Fedora Setup
 
 To run
 ```
